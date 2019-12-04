@@ -46,3 +46,16 @@ class Player
     isOccuoiedSquare9 = false;
     }
 };
+
+int main()
+{
+    double row1 = ?;
+    double row2 = ?;
+    double row3 = ?;
+    double column1 = ?;
+    double column2 = ?;
+    double coulumn3 = ?;
+    
+    sf::RenderWindow window(sf::videoMode(500,500), "SFML Works!")
+        
+}
