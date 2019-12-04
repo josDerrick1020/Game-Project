@@ -57,5 +57,7 @@ int main()
     double coulumn3 = ?;
     
     sf::RenderWindow window(sf::videoMode(500,500), "SFML Works!")
-        
 }
+
+
+//is this working?
